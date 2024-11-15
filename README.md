@@ -1,1 +1,2 @@
-This is a project to demonstrate my CSS and Flexbox Skills# Landing-Page
+This is a repository to practice while I was learning CSS and Flexbox
+#Landing-Page
